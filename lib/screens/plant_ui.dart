@@ -38,7 +38,7 @@ class PlantUi extends StatelessWidget {
                 height: 40,
               ),
               Image(image: AssetImage("assets/Dribbble.jpg")),
-              SizedBox(height: 70,),
+              SizedBox(height: 90,),
               ButtonWidget(
                   widget: TextWidget(
                       text: "Sign in",
